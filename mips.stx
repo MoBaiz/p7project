@@ -1,0 +1,98 @@
+Release 12.3 - xst M.70d (nt64)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to K:/Users/mobai/Desktop/ise/p7project/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.23 secs
+ 
+--> Parameter xsthdpdir set to K:/Users/mobai/Desktop/ise/p7project/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.23 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "mux.v" in library work
+Module <mux_2_32bit> compiled
+Module <mux_3_32bit> compiled
+Module <mux_4_32bit> compiled
+Module <mux_3_5bit> compiled
+Module <mux_2_5bit> compiled
+Compiling verilog file "stopunit.v" in library work
+Module <mux_2_1bit> compiled
+Compiling verilog file "SllDecoder.v" in library work
+Module <stoppc> compiled
+Compiling verilog file "pcsignal.v" in library work
+Module <SllDecoder> compiled
+Compiling verilog file "pc4.v" in library work
+Module <pcsignal> compiled
+Compiling verilog file "pc.v" in library work
+Module <pc4> compiled
+Compiling verilog file "npc.v" in library work
+Module <pc> compiled
+Compiling verilog file "mult.v" in library work
+Module <npc> compiled
+Compiling verilog file "MEM_WB.v" in library work
+Module <mult> compiled
+Compiling verilog file "MDctrl.v" in library work
+Module <MEM_WB> compiled
+Compiling verilog file "IM.v" in library work
+Module <MDctrl> compiled
+Compiling verilog file "IF_ID.v" in library work
+Module <im_4k> compiled
+Compiling verilog file "IE_MEM.v" in library work
+Module <IF_ID> compiled
+Compiling verilog file "ID_EX.v" in library work
+Module <IE_MEM> compiled
+Compiling verilog file "hazard.v" in library work
+Module <ID_EX> compiled
+Compiling verilog file "gpr.v" in library work
+Module <hazard> compiled
+Compiling verilog file "ext.v" in library work
+Module <GPR> compiled
+Compiling verilog file "exet.v" in library work
+Module <ext> compiled
+Compiling verilog file "Doutexop_Decoedr.v" in library work
+Module <eret> compiled
+Compiling verilog file "DM.v" in library work
+Module <Doutexop_Decoedr> compiled
+Compiling verilog file "dataext.v" in library work
+Module <dm_8k> compiled
+Compiling verilog file "ctrl.v" in library work
+Module <DataExt> compiled
+Compiling verilog file "cp0decoder.v" in library work
+Module <control> compiled
+Compiling verilog file "cp0.v" in library work
+Module <cp0decode> compiled
+Compiling verilog file "comp.v" in library work
+Module <cp0> compiled
+Compiling verilog file "BEext.v" in library work
+Module <CMP> compiled
+Compiling verilog file "ALU.v" in library work
+Module <BEext> compiled
+Compiling verilog file "ADDRsel.v" in library work
+Module <ALU> compiled
+Compiling verilog file "mips.v" in library work
+Module <ADDRsel> compiled
+Module <mips> compiled
+No errors in compilation
+Analysis of file <"mips.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.56 secs
+ 
+--> 
+
+Total memory usage is 204892 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,5 @@
+set -tmpdir "K:/Users/mobai/Desktop/ise/p7project/xst/projnav.tmp"
+set -xsthdpdir "K:/Users/mobai/Desktop/ise/p7project/xst"
+elaborate
+-ifn mips.prj
+-ifmt mixed

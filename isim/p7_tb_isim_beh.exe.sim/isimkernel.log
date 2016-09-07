@@ -1,0 +1,28 @@
+Command line:
+   p7_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52254
+
+Fri Dec 26 13:08:53 2014
+
+
+ Elaboration Time: 0.670804 sec
+
+ Current Memory Usage: 512.791 Meg
+
+ Total Signals          : 445
+ Total Nets             : 2466
+ Total Signal Drivers   : 176
+ Total Blocks           : 59
+ Total Primitive Blocks : 53
+ Total Processes        : 226
+ Total Traceable Variables  : 142
+ Total Scalar Nets and Variables : 137038
+
+ Total Simulation Time: 6.55204 sec
+
+ Current Memory Usage: 512.791 Meg
+
+Fri Dec 26 15:04:29 2014
+

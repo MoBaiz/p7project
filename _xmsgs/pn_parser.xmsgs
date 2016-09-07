@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/ADDRsel.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/ALU.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/BEext.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/Bridge.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/DM.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/Doutexop_Decoedr.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/ID_EX.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/IE_MEM.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/IF_ID.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/IM.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/MDctrl.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/MEM_WB.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/SllDecoder.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/comp.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/cp0.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/cp0decoder.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/ctrl.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/dataext.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/de.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/exet.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/ext.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/gpr.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/hazard.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/mips.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/mult.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/mux.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/npc.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/p7.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/pc.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/pc4.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/pcsignal.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/stopunit.v\&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1648" ><arg fmt="%s" index="1">Analyzing Verilog file \&quot;K:/Users/mobai/Desktop/p7project/times.v\&quot; into library work</arg>
+</msg>
+
+</messages>
+

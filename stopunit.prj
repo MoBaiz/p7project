@@ -1,0 +1,5 @@
+verilog work "ADDRsel.v"
+verilog work "stopunit.v"
+verilog work "cp0decoder.v"
+verilog work "mux.v"
+verilog work "exet.v"

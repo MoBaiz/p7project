@@ -1,0 +1,50 @@
+Release 12.3 - xst M.70d (nt64)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to K:/Users/mobai/Desktop/ise/p7project/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 2.00 secs
+Total CPU time to Xst completion: 2.02 secs
+ 
+--> Parameter xsthdpdir set to K:/Users/mobai/Desktop/ise/p7project/xst
+
+
+Total REAL time to Xst completion: 2.00 secs
+Total CPU time to Xst completion: 2.03 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "ADDRsel.v" in library work
+Compiling verilog file "stopunit.v" in library work
+Module <ADDRsel> compiled
+Compiling verilog file "cp0decoder.v" in library work
+Module <stoppc> compiled
+Compiling verilog file "mux.v" in library work
+Module <cp0decode> compiled
+Module <mux_2_32bit> compiled
+Module <mux_3_32bit> compiled
+Module <mux_4_32bit> compiled
+Module <mux_3_5bit> compiled
+Module <mux_2_5bit> compiled
+Compiling verilog file "exet.v" in library work
+Module <mux_2_1bit> compiled
+Module <eret> compiled
+No errors in compilation
+Analysis of file <"stopunit.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 3.00 secs
+Total CPU time to Xst completion: 2.65 secs
+ 
+--> 
+
+Total memory usage is 202908 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

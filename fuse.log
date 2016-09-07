@@ -1,0 +1,87 @@
+Running: E:\ISE\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o K:/Users/mobai/Desktop/ise/p7project/p7_tb_isim_beh.exe -prj K:/Users/mobai/Desktop/ise/p7project/p7_tb_beh.prj work.p7_tb work.glbl 
+ISim M.70d (signature 0x16fbe694)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/mux.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/stopunit.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/SllDecoder.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/pcsignal.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/pc4.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/pc.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/npc.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/mult.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/MEM_WB.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/MDctrl.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/IM.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/IF_ID.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/IE_MEM.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/ID_EX.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/hazard.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/gpr.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/ext.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/exet.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/Doutexop_Decoedr.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/DM.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/de.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/dataext.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/ctrl.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/cp0decoder.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/cp0.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/comp.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/BEext.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/ALU.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/ADDRsel.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/times.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/mips.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/Bridge.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/p7.v\" into library work
+Analyzing Verilog file \"K:/Users/mobai/Desktop/ise/p7project/p7_tb.v\" into library work
+Analyzing Verilog file \"E:/ISE/ISE_DS/ISE//verilog/src/glbl.v\" into library work
+Starting static elaboration
+WARNING:HDLCompiler:189 - "K:/Users/mobai/Desktop/ise/p7project/mips.v" Line 67: Size mismatch in connection of port <c>. Formal port size is 5-bit while actual signal size is 32-bit.
+Completed static elaboration
+Compiling module stoppc
+Compiling module mux_2_32bit
+Compiling module pc
+Compiling module mux_3_32bit
+Compiling module pc4
+Compiling module im_4k
+Compiling module IF_ID
+Compiling module control
+Compiling module GPR
+Compiling module ext
+Compiling module npc
+Compiling module CMP
+Compiling module pcsignal
+Compiling module eret
+Compiling module ID_EX
+Compiling module SllDecoder
+Compiling module ALU
+Compiling module MDctrl
+Compiling module mult
+Compiling module mux_3_5bit
+Compiling module IE_MEM
+Compiling module BEext
+Compiling module DMwesel
+Compiling module dm_8k
+Compiling module cp0decode
+Compiling module cp0
+Compiling module mux_2_1bit
+Compiling module MEM_WB
+Compiling module Doutexop_Decoedr
+Compiling module DataExt
+Compiling module ADDRsel
+Compiling module hazard
+Compiling module mips
+Compiling module Bridge
+Compiling module times
+Compiling module p7
+Compiling module p7_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 31 sub-compilation(s) to finish...
+Compiled 38 Verilog Units
+Built simulation executable K:/Users/mobai/Desktop/ise/p7project/p7_tb_isim_beh.exe
+Fuse Memory Usage: 29280 KB
+Fuse CPU Usage: 592 ms
